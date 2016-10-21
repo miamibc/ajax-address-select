@@ -1,0 +1,48 @@
+{
+  "main": [
+    "Estonia",
+    "Russia",
+    "Latvia",
+    "Lithuania"
+  ],
+  "Estonia": [
+    "Harjumaa",
+    "Tartumaa",
+    "Hiiumaa"
+  ],
+  "Harjumaa": ["Tallinn", "Aseri"],
+  "Tallinn": ["Lasnamae", "Oismae", "Kopli"],
+  "Lasnamae": [
+    "Pae",
+    "Liikuri",
+    "Laagna"
+  ],
+  "Oismae": [
+    "Aeb",
+    "Kurikiri",
+    "Lasagna"
+  ],
+  "Kopli": [
+    "Sxle",
+    "Something",
+    "Else"
+  ],
+  "Liikuri": ["38"],
+
+  "Tartumaa": ["Tartu"],
+
+  "Russia": [
+    "Sankt-peterburg oblast",
+    "Moskau oblast"
+  ],
+  "Sankt-peterburg oblast":["Sankt Peterburg", "Tver"],
+  "Moskau oblast":["Moscow", "Tula"],
+
+  "Latvia": [
+    "Riga distr"
+  ],
+  "Riga distr": ["Riga"],
+  "Lithuania": [
+    "Vilnus"
+  ]
+}
